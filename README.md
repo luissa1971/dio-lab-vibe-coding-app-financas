@@ -2,6 +2,7 @@
 
 Um aplicativo que ajuda iniciantes a organizar suas finanças de forma simples e natural, por meio de conversas.
 O objetivo é eliminar a complexidade dos apps tradicionais e transformar o controle financeiro em uma experiência leve e educativa.
+
 🧠 Prompt Final (PRD)
 Quero criar um aplicativo de Organização de Finanças Pessoais com experiência conversacional.  
 O objetivo é ajudar iniciantes a controlar seus gastos sem planilhas complexas ou formulários.  
@@ -43,6 +44,7 @@ O sistema entende frases naturais como “Gastei R$ 50 no mercado”, classifica
 O Agente Financeiro atua como um mentor amigável, oferecendo dicas personalizadas de economia e incentivando hábitos financeiros saudáveis.
 
 💡 Reflexão sobre o Processo
+
 ✅ O que funcionou bem
 
     A abordagem conversacional simplificou a experiência do usuário.
