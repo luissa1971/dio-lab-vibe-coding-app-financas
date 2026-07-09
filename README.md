@@ -64,3 +64,5 @@ O Agente Financeiro atua como um mentor amigável, oferecendo dicas personalizad
     A IA não substitui o pensamento criativo humano — ela amplifica ideias e ajuda a organizar o raciocínio.
 
     Aprendi que o segredo está em guiar a conversa com clareza, transformando instruções em colaboração.
+
+    https://chat-cash-pal-35.lovable.app
